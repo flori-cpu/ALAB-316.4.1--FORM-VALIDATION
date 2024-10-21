@@ -1,0 +1,8 @@
+#errorDisplay, #loginErrorDisplay {
+    color: red;              
+    margin-top: 10px;       
+}
+
+#successMessage, #loginSuccessMessage {
+    color: green;          
+}
